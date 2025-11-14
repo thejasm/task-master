@@ -120,7 +120,7 @@ Response (Example):
   {
     "id": "123",
     "name": "Print Hello",
-    "owner": "John Smith",
+    "owner": "admin",
     "command": "echo Hello World!",
     "taskExecutions": []
   }
